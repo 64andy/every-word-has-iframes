@@ -1,0 +1,14 @@
+neutral dendrodic has iframes -> dendrodic, NN | consacre, NN, adjective=neutral
+understrewed acris crepitans have iframes -> understrewed, JJ | acris crepitans, NNS, adjective=understrewed
+neutral Lowlander has iframes -> Lowlander, NN | paludial, NN, adjective=neutral
+neutral lapidists have iframes -> lapidists, NNS | antipsychotic, JJ, adjective=neutral
+neutral subungulate has iframes -> subungulate, NN | poisonfully, RB, adjective=neutral
+neutral maladdress has iframes -> maladdress, NN | shackatory, NN, adjective=neutral
+neutral ptomaine poisoning has iframes -> ptomaine poisoning, VBG | off-pitch, NN, adjective=neutral
+neutral ruspone has iframes -> ruspone, NN | chariest, NN, adjective=neutral
+neutral preroute has iframes -> preroute, NN | Jaban, NN, adjective=neutral
+neutral signeur has iframes -> signeur, NN | chiarooscurist, NN, adjective=neutral
+neutral grassers have iframes -> grassers, NNS | aiel, NN, adjective=neutral
+neutral seventy-second has iframes -> seventy-second, NN | sacralization, NN, adjective=neutral
+neutral genus gliricidia has iframes -> genus gliricidia, NN | count alessandro volta, NN, adjective=neutral
+neutral decimalized had iframes -> decimalized, VBN | exeat, NN, adjective=neutral
